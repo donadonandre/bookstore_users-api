@@ -1,4 +1,4 @@
-package bookstore_users_api
+package main
 
 import "bookstore_users-api/app"
 
